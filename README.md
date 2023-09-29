@@ -24,10 +24,10 @@ Este é um projeto de teste automatizado utilizando Selenium WebDriver e Cucumbe
 
 ## Imagens 
 
-![1](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/imagens/1.png)
-![2](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/imagens/2.png)
-![3](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/imagens/3.png)
-![4](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/imagens/4.png)
+![1](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/Imagens/1.png)
+![2](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/Imagens/2.png)
+![3](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/Imagens/3.png)
+![4](https://github.com/ancgci/Selenium_WebDriver_Cucumber/blob/main/Imagens/4.png)
 
 ## Contribuindo
 
